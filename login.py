@@ -60,3 +60,4 @@ sleep(5)
 print("Test completed.")
 driver.quit()
 
+print(" ")

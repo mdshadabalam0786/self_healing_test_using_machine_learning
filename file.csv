@@ -3,4 +3,4 @@ _token, input, None, hidden, None, _token, None, None, None, None, '8ooxNZwoKCJL
 email, input, None, email, form-control, email, None, None, None, None, None, None
 password, input, userpassword, password, form-control, password, None, None, None, None, None
 LOGIN, button, None, submit, btn btn-dark submit-btn, None, None, None, None, 'login', None, None
-on, input, None, checkbox, None, None, None, 'on', None, None
+on, input, None, checkbox, None, None, None, 'on', None, None,None
